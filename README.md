@@ -1,2 +1,2 @@
-# stencil
-Template for empty simple Android project. Bare minimum.
+# Android Stencil
+Empty Android project template. Bare minimum.
